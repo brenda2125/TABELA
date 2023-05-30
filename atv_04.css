@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(236, 229, 229);
+}
+
+table{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+}
+th{
+  border-left: transparent;
+  border-width: transparent;
+  border-right: transparent;
+  border-top: transparent;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  
+  
+  
+  
+  
